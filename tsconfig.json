@@ -13,15 +13,9 @@
     "moduleDetection": "force",
     "noEmit": true,
 
-    /* Module */
-    "rootDir": "./src",
-    "outDir": "./dist",
-
      /* Interop Constraints */
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-
-    /* Type Checking */
     
 
     /* Linting */
